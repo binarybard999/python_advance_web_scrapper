@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+thumbs.db
+
+# Scraped data folders
+*.html
+*.css
+*.js
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.avi
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Sensitive information (if any)
+.env
